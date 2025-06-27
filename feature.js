@@ -1,6 +1,4 @@
 console.log("Feature branch");
 
+<<<<<<< HEAD
 //fetch command command
-
-
-console.log('trying git revert ')
