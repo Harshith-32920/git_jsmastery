@@ -1,8 +1,11 @@
 console.log("Feature branch");
 
-<<<<<<< HEAD
 //fetch command command
 
 //implementing urgent fix
 //
 //
+
+console.log('Hello Git')
+
+console.log('hello from feature v3')
